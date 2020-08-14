@@ -441,3 +441,7 @@ blockquote::after
     margin: 3px;
     color: red;
 }
+
+.text-dark{
+    font-family: 'Arizonia';
+}
